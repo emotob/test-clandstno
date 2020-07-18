@@ -166,7 +166,7 @@ function showContactMap() {
 
 
 var no_ajax_pages = [];
-var root = 'http://clandestinomusictravel.com/';
+var root = 'https://emotob.github.io/test-clandstno/';
 var parallax_speed = 1;
 
 
